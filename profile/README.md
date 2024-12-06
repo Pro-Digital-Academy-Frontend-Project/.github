@@ -1,8 +1,5 @@
 ## 키워드 기반의 주식 인사이트 제공 플랫폼: Stockey
-#### 나만의 키워드로 주식을 열어보세요. 
-<br>
-
-
+![introPage](../asset/1-인트로페이지.png)
 
 ## ⁉️기획 배경
 테마주와 같은 특정 키워드 기반의 투자 성향에서 아이디어를 시작했습니다.
@@ -24,6 +21,8 @@
 - 종목 기반의 키워드 랭킹 및 차트
 - 키워드 별 채팅방
 - 즐겨찾기 키워드/종목 알림 서비스
+![image](https://github.com/user-attachments/assets/43bd4a12-c210-4c0d-9745-bb79c952ad9c)
+🎥[시연 영상 보러 가기](https://www.youtube.com/watch?v=MWXZM-6tnXA)
 
 <br>
 
@@ -31,3 +30,9 @@
 1. 스케줄링을 통해 매일 Naver Open API로 종목 별 뉴스 데이터를 가져왔습니다.
 2. 뉴스 데이터에서 Kiwi로 토큰화 후, kr-wordrank로 키워드와 키워드-종목 별 가중치를 추출했습니다.
 3. 추출한 데이터를 DB에 저장 후 [키워드 별 종목 랭킹], [종목 별 키워드 랭킹], [키워드 별 채팅방] 등을 제공하였습니다.
+
+<br>
+
+## 👍회고
+![image](https://github.com/user-attachments/assets/e91226fc-330e-48e9-b785-dc4e7779c8ee)
+
