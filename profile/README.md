@@ -33,6 +33,26 @@
 
 <br>
 
+## 🤔아키텍처 및 사용 기술
+### 🔹 **프론트엔드**
+- React, JavaScript, Tailwind CSS
+- **react-financial-charts** 라이브러리를 이용한 차트 구현 
+
+### 🔹 **백엔드**
+- ExpressJS, MySQL 사용
+- 네이버 뉴스 크롤링 및 KR-wordrank를 통한 키워드 추출
+- 한국투자증권 API, Slack 봇 연동
+
+<br>
+  
+![image](https://github.com/user-attachments/assets/1efe2035-907b-44ac-825a-4102c439357a)
+
+<br>
+
+## ERD
+![image](https://github.com/user-attachments/assets/d9987eb7-b08f-4b19-bedc-0af17614cdda)
+
+
 ## 👍회고
 ![image](https://github.com/user-attachments/assets/e91226fc-330e-48e9-b785-dc4e7779c8ee)
 
